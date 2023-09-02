@@ -1,0 +1,10 @@
+2 - What is Turing Test?
+
+Turing is proposed by Alan Turing in 1950 
+
+There will be:
+- a interviewer
+- a human
+- a computer
+
+If interviewer can't differentiate between human and computer then that computer passes the turing

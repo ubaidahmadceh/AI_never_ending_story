@@ -1,0 +1,7 @@
+1 - What is AI as a field ?
+
+Goal of AI : To mimic human intelligence
+we are doing research from thousand of years on human intelligence to understand how a small biological stuff (brain) can do so many thing.
+
+Neural Network (ANN, CNN, RNN)
+------------------------------
