@@ -1,0 +1,22 @@
+3 - Fields Which contributed to AI
+AI is comparatively a newer field not older than 70 to 80 years. So it can definitely use some already done immense work from well established disciplines.
+Here are Some of Fields which contributed in evolution of Artificial Intelligence:
+
+
+- Philosphy => Gave idea of logic or rationality which governs the working on human mind.
+                e.g. Aristotle is a Man and All men are mortal (So Aristotle is mortal)
+
+- Mathematics => It layed out priciples to perform logic in numerical form.
+                e.g. Booleans or first Order logic
+
+- Economics => Study of what actions led to nation's wealth or How a nation can maximize it's profits
+                e.g. A ML model trying to maximize it's accuracy
+
+- Neuroscience => How brain store information (Knowledge representation), Perceive from environment and the perform certain actions.
+                e.g. An AI agent trying to interact with environment in reinforcement learning
+
+- Psycology => How our thought process lead to a reaction to an actions. What changes happens in human mind.
+                e.g. How Neural networks change their internal parameters while learning or when trying to make prediction  
+
+- Linguistic => How we use the context and Knowledge of matter while speaking.
+                e.g. How chatbot can respond in a certain context (This gave birth to NLP)
